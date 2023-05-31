@@ -39,7 +39,7 @@ To replicate the analysis, the following dependencies need to be installed:
 
 To run the analysis, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/john-5014/adult-dataset-analysis.git`
+1. Clone this repository: `git clone https://github.com/John-5014/Data-Analysis-with-Pandas.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Open the Jupyter notebooks in the notebooks/ directory and execute the cells sequentially.
 
